@@ -8,10 +8,10 @@
            bool exit = false;
             Weapon weapon = new Weapon(30,10,false);
             bool run = false;
-            while (run) 
+            do
             {
-                Console.WriteLine("0: Informasiya almaq ucun");
-                Console.WriteLine("1: Ates acmaq ucun");
+                Console.WriteLine("0:Informasiya almaq ucun");
+                Console.WriteLine("1:Ates acmaq ucun");
                 Console.WriteLine("2:Getremainbulletcount metodu ucun");
                 Console.WriteLine("3:reload metodu ucun");
                 Console.WriteLine("4:changefire metodu ucun");
@@ -21,7 +21,7 @@
                 switch (input) 
                 {
                     case "0":
-                        Console.WriteLine("informasiya almaq");
+                        Console.WriteLine($"CurrentBullet: {weapon.Currentbullet}");
                       
                         break;
                     case "1":
@@ -40,7 +40,7 @@
                         break;
 
                 }
-            }
+            } while (exit!=false);
         }
     }
 }
