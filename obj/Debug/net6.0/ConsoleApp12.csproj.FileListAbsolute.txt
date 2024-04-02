@@ -1,0 +1,15 @@
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\ca.r215.07\Desktop\codeexam\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
